@@ -1,0 +1,2 @@
+# ExamScheduler
+AI offline 
